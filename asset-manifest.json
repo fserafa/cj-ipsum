@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cj-ipsum/static/css/main.1823c4b7.chunk.css",
+    "main.js": "/cj-ipsum/static/js/main.6487a596.chunk.js",
+    "main.js.map": "/cj-ipsum/static/js/main.6487a596.chunk.js.map",
+    "runtime-main.js": "/cj-ipsum/static/js/runtime-main.6af76b5a.js",
+    "runtime-main.js.map": "/cj-ipsum/static/js/runtime-main.6af76b5a.js.map",
+    "static/css/2.5bc4965f.chunk.css": "/cj-ipsum/static/css/2.5bc4965f.chunk.css",
+    "static/js/2.82d794a9.chunk.js": "/cj-ipsum/static/js/2.82d794a9.chunk.js",
+    "static/js/2.82d794a9.chunk.js.map": "/cj-ipsum/static/js/2.82d794a9.chunk.js.map",
+    "index.html": "/cj-ipsum/index.html",
+    "precache-manifest.8060c7bdc72688729bc8a0d3ca42ca8a.js": "/cj-ipsum/precache-manifest.8060c7bdc72688729bc8a0d3ca42ca8a.js",
+    "service-worker.js": "/cj-ipsum/service-worker.js",
+    "static/css/2.5bc4965f.chunk.css.map": "/cj-ipsum/static/css/2.5bc4965f.chunk.css.map",
+    "static/css/main.1823c4b7.chunk.css.map": "/cj-ipsum/static/css/main.1823c4b7.chunk.css.map",
+    "static/js/2.82d794a9.chunk.js.LICENSE.txt": "/cj-ipsum/static/js/2.82d794a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6af76b5a.js",
+    "static/css/2.5bc4965f.chunk.css",
+    "static/js/2.82d794a9.chunk.js",
+    "static/css/main.1823c4b7.chunk.css",
+    "static/js/main.6487a596.chunk.js"
+  ]
+}
