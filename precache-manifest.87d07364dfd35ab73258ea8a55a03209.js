@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6e4ff3032fb795559fee429adbf6838",
+    "revision": "2958b10e68291fe97d3e6c9a3639dbf0",
     "url": "/cj-ipsum/index.html"
   },
   {
-    "revision": "3e4652f68f5817673f31",
+    "revision": "0d187dc6b01dae453496",
     "url": "/cj-ipsum/static/css/2.5bc4965f.chunk.css"
   },
   {
-    "revision": "498134b07c73abb9d4a6",
+    "revision": "5cc47a6dfb0b80006f34",
     "url": "/cj-ipsum/static/css/main.1823c4b7.chunk.css"
   },
   {
-    "revision": "3e4652f68f5817673f31",
-    "url": "/cj-ipsum/static/js/2.82d794a9.chunk.js"
+    "revision": "0d187dc6b01dae453496",
+    "url": "/cj-ipsum/static/js/2.fd6db96b.chunk.js"
   },
   {
     "revision": "e933f8dbfdf496cb72e495663a499a00",
-    "url": "/cj-ipsum/static/js/2.82d794a9.chunk.js.LICENSE.txt"
+    "url": "/cj-ipsum/static/js/2.fd6db96b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "498134b07c73abb9d4a6",
-    "url": "/cj-ipsum/static/js/main.6487a596.chunk.js"
+    "revision": "5cc47a6dfb0b80006f34",
+    "url": "/cj-ipsum/static/js/main.c05e8cc3.chunk.js"
   },
   {
     "revision": "e4c17128ee1d7503df36",
